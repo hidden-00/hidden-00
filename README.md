@@ -12,8 +12,6 @@ About me
 
 Technologies
 
-▪ Front-end : React.js | Redux | Javascript | HTML | CSS
-
-▪ Back-end : Node.js | SQL | Javascript
+▪ Back-end : Node.js | Java | SQL | MongoDB | Javascript
 
 ▪ Versionning : Git
